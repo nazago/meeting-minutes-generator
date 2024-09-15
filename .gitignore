@@ -1,0 +1,7 @@
+**__pycache__/
+dev_notes.md
+notebooks/
+build/
+venv_meeting_minutes/
+.vscode/
+example/
